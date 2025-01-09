@@ -4,6 +4,21 @@
 
 This project focuses on analyzing customer purchasing patterns using the Online Retail II dataset, which contains transaction records from a UK-based online retailer. The goal is to perform unsupervised learning to identify different customer segments based on purchasing behaviors, using clustering techniques.
 
+### Quality Issues:
+
+- Missing values in transaction histories or demographics.
+- Outliers in purchasing frequency or monetary spend.
+
+Cleaning/Transformation:
+- Impute missing values and scale monetary features.
+- Use dimensionality reduction (e.g., PCA) to simplify features.
+
+Model Evaluation:
+- Evaluate clustering results qualitatively (e.g., cluster profiles) and quantitatively (e.g., silhouette score).
+
+Dataset Limitations:
+- Limited to a specific retailer or region, reducing generalizability.
+
 ### Objective
 
 The goal of this analysis is to identify distinct customer segments based on their purchasing behavior using unsupervised learning methods, specifically clustering techniques like K-Means. We aim to:
