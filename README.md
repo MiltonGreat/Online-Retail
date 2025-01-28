@@ -74,4 +74,4 @@ The clustering model identified four key customer segments:
 
 ### Sources
 
-https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset
+Dataset: [Online Retail II Dataset on Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset)
